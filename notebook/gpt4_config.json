@@ -2,8 +2,8 @@
     
    
     {
-        "model": "gpt-4",
-        "api_key": "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"
+        "model": "gpt-3.5-turbo",
+        "api_key": "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"    
     }
 
 

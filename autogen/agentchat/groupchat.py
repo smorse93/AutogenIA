@@ -4,6 +4,8 @@ from typing import Dict, List, Optional, Union
 from .agent import Agent
 from .conversable_agent import ConversableAgent
 import logging
+import time  # Import the time module
+import asyncio  # Import asyncio for asynchronous operations
 
 logger = logging.getLogger(__name__)
 
@@ -188,6 +190,11 @@ class GroupChatManager(ConversableAgent):
             # The speaker sends the message without requesting a reply
             speaker.send(reply, self, request_reply=False)
             message = self.last_message(speaker)
+            
+            
+            # Delay added here
+            time.sleep(1)  # Delay for 5 seconds after each round
+
         return True, None
 
     async def a_run_chat(
@@ -233,4 +240,7 @@ class GroupChatManager(ConversableAgent):
             # The speaker sends the message without requesting a reply
             await speaker.a_send(reply, self, request_reply=False)
             message = self.last_message(speaker)
+             
+             # Asynchronous delay added here
+            await asyncio.sleep(1)  # Asynchronous delay for 5 seconds after each round
         return True, None

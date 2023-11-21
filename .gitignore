@@ -167,3 +167,6 @@ wolfram.txt
 
 # DB on disk for TeachableAgent
 tmp/
+notebook/gpt4_config.json
+notebook/gpt_config.json
+notebook/gpt4_config.json
