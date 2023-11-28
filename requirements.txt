@@ -1,0 +1,26 @@
+cython #had to install this manually
+pyyaml #had to install this manually 
+pyautogen
+autogen
+fastapi[all]>=0.95.2   # FastAPI with all optional dependencies
+openai==0.15.0         # OpenAI's Python client library
+python-dotenv==0.20.0  # Loads environment variables from a .env file
+#pydantic==1.9.0        # Data validation and settings management using Python type annotations
+pydantic
+langchain==0.0.340     # A language model chaining library
+#faiss-cpu==1.7.1       # CPU version of the FAISS library for efficient similarity search
+tiktoken==0.5.1        # A library for handling TikTok tokens
+streamlit==1.8.0       # A framework for creating data apps
+numpy>=1.22.5          # Update to a version compatible with chromadb and other dependencies
+pulsar-client==3.1.0   # Pulsar client for Python
+chromadb==0.4.18       # A database library
+openai 
+diskcache
+flaml
+pypdf
+Ipython
+pinecone-client
+tika
+nltk
+sentence-transformers
+#also had to update pip and setuptool
