@@ -10,6 +10,10 @@ from langchain.document_loaders import DirectoryLoader
 import chromadb
 import pinecone
 
+#remove parallelism as we want things to always run chronologically. 
+import os
+os.environ["TOKENIZERS_PARALLELISM"] = "false"
+
 #pinecone.init(api_key="cfda5a85-54d2-487c-95e7-c665d0599dca", environment="iaindex")
 
 
@@ -45,21 +49,31 @@ termination_msg = lambda x: isinstance(x, dict) and "TERMINATE" == str(x.get("co
 
    
 # 1. create an RetrieveAssistantAgent instance named "assistant"
-# retrievalassistant = RetrieveUserProxyAgent(
-#     name="ragAssistant",
-#     is_termination_msg=termination_msg,
-#     system_message="Assistant who has extra content retrieval power for solving difficult problems.",
-#     human_input_mode="TERMINATE",
-#     max_consecutive_auto_reply=3,
-#     retrieve_config={
-#         "task": "code",
-#         "docs_path": "/Users/stevenmorse33/Documents/ResearchStrategy/ProcessedText
-#         "client": chromadb.PersistentClient(path="/tmp/chromadb"),
-#         "collection_name": "groupchat",
-#         "get_or_create": True,
-#     },
-#     code_execution_config=False,  # we don't want to execute code in this case.
-# )
+retrievalassistant = RetrieveUserProxyAgent(
+    name="ragAssistant",
+    is_termination_msg=termination_msg,
+    system_message="Assistant who has extra content retrieval power for solving difficult problems. You will share what you find and you will run at the beginning of the process.",
+    human_input_mode="TERMINATE",
+    max_consecutive_auto_reply=3,
+    retrieve_config={
+        "task": "code",
+        "docs_path": "/Users/stevenmorse33/Documents/ResearchStrategy/ProcessedText",
+        "client": chromadb.PersistentClient(path="/tmp/chromadb"),
+        "collection_name": "groupchat",
+        "get_or_create": True,
+        "chunk_token_size": 1000,
+        "context_max_tokens": 4000 ,
+        #"chunk_token_size": max_tokens*.4 (this is the default value, changing might help with token limits)
+        #"context_max_tokens": max_tokens *.8 (this is the default value, changing might help with token limits)
+        #chunk_mode (Optional, str): the chunk mode for the retrieve chat. Possible values are "multi_lines" and "one_line". If key not provided, a default mode `multi_lines` will be used. must_break_at_empty_line (Optional, bool): chunk will only break at empty line if True. Default is True.If chunk_mode is "one_line", this parameter will be ignored.
+        #these things may help with some of the errors, checkcode for other things/ 
+        #customized_prompt (Optional, str): the customized prompt for the retrieve chat. Default is None.
+            #might be able to put prompt here for having retrieval agent called more normally, it seemed like in prior examples, this was not being passed on. 
+            #in the working initialization, this was passed on as "problem", need to find the trail for this
+
+    },
+    code_execution_config=False,  # we don't want to execute code in this case.
+)
 
 #human admin who approves plan
 user_proxy = autogen.UserProxyAgent(
@@ -102,6 +116,7 @@ userexperiencemanager = autogen.AssistantAgent(
     llm_config=gpt_config,
     system_message="""You are a helpful and detailed business and design consultant team member in charge of providing analysis on user experience. 
     You will provide analysis and walk us step by step through your thinking. You also incorporate insights from your fellow team members to improve your responses. 
+    Prioritize context information received from the retrieveassistant and specifically state if you have used information from the retrieveassistant. 
 
     Your core goal is to give us insights into users goals and desired journey. 
     
@@ -246,9 +261,22 @@ offeringsmanager = autogen.AssistantAgent(
     )
 
 #---------------------------Chat Organization and Core Prompt---------------------------
+def _reset_agents():
+    planner.reset()
+    critic.reset()
+    retrievalassistant.reset()
+    userexperiencemanager.reset()
+    profitmanager.reset()
+    brandmanager.reset()
+    capabilitiesmanager.reset()
+    partnersmanager.reset()
+    channelmanager.reset()
+    offeringsmanager.reset()
 
+
+_reset_agents()
 #this organizes the chat structure into a data class 
-groupchat = autogen.GroupChat(agents=[user_proxy, planner, critic, userexperiencemanager, profitmanager, brandmanager, capabilitiesmanager, partnersmanager, channelmanager, offeringsmanager], messages=[], max_round=20)
+groupchat = autogen.GroupChat(agents=[retrievalassistant, planner, critic,  userexperiencemanager, profitmanager, brandmanager, capabilitiesmanager, partnersmanager, channelmanager, offeringsmanager], messages=[], max_round=20)
 #This sets the response workflow to the chat - still understanding this code
 manager = autogen.GroupChatManager(groupchat=groupchat, llm_config=gpt_config)
 
@@ -258,6 +286,15 @@ called Nike Move. This app helps any level of athelte stay moving. Each of the t
  
 
 #---------------------------Initiate Chat---------------------------
-user_proxy.initiate_chat(manager, message=messageRequest)
+retrievalassistant.initiate_chat(manager, problem=messageRequest, n_results=3)
+
+#when I initiate the chat with the retrievalassistant, the retreival assistant runs, but it has trouble passing things on. I think this also contributes to fast token limit useage. 
+# retrievalassistant.initiate_chat(
+#         manager,
+#         problem=PROBLEM,
+#         n_results=3,
+#     )
+#may need to play around with the groupchat.py to see how the self.message is passed, I think we need to pass a self.problem and self.n_results onto the retrieval assistant or maybe change the retrieval assistant to take message. 
+
 
 # type exit to terminate the chat

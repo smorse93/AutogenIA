@@ -11,21 +11,22 @@ from nltk.corpus import stopwords
 stop_words = set(stopwords.words('english'))
 
 def preprocess_text(text):
+    if text is None:
+        return ''  # Return an empty string if text is None
+    # Remove email addresses
+    text = re.sub(r'\S+@\S+', '', text)
+
     # Lowercasing
     text = text.lower()
     # Remove special characters
     text = re.sub(r'\W', ' ', text)
-    # Remove all single characters
-    text = re.sub(r'\s+[a-zA-Z]\s+', ' ', text)
-    # Remove single characters from the start
-    text = re.sub(r'\^[a-zA-Z]\s+', ' ', text) 
     # Substitute multiple spaces with single space
     text = re.sub(r'\s+', ' ', text, flags=re.I)
     # Remove stopwords
     text = ' '.join(word for word in text.split() if word not in stop_words)
     return text
 
-output_dir = 'IADemos/processedText'
+output_dir = '/Users/stevenmorse33/Documents/ResearchStrategy/ProcessedText'
 os.makedirs(output_dir, exist_ok=True)  # This ensures that the directory exists
 
 def convert_folder_to_text(folder_path):
@@ -46,4 +47,4 @@ def convert_folder_to_text(folder_path):
 
 
 # Replace 'your_folder_path' with the path to the folder containing your documents
-convert_folder_to_text('/Users/stevenmorse33/Documents/Coding Projects/MicrosoftAutogenNotebooks/IADemos/rag_data')
+convert_folder_to_text('/Users/stevenmorse33/Documents/ResearchStrategy/UserTranscripts')

@@ -3,7 +3,7 @@ import pinecone
 import os
 
 # Configuration
-pinecone_api_key = 'cfda5a85-54d2-487c-95e7-c665d0599dca'  # Pinecone API key
+pinecone_api_key = '370c4b4d-ad85-4463-a7ce-097d78a3dfbb'  # Pinecone API key
 index_name = 'iaindex'  # Pinecone index name
 model_name = 'all-MiniLM-L6-v2'  # Sentence transformer model name
 

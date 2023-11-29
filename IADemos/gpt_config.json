@@ -1,0 +1,13 @@
+[
+   
+    {
+        "model": "gpt-4-1106-preview",
+        "api_key": "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"    
+    },
+    {
+        "model": "gpt-3.5-turbo",
+        "api_key": "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"    
+    }
+
+
+]

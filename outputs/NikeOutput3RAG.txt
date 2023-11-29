@@ -1,0 +1,709 @@
+loaded
+Trying to create collection.
+max_tokens is too small to fit a single line of text. Breaking this line:
+        speaker 1 00 00 awesome um would uh mind uh adding maintenance speaker 2 00 06 sure main let call ma ...
+Failed to split docs with must_break_at_empty_line being True, set to False.
+max_tokens is too small to fit a single line of text. Breaking this line:
+        speaker 1 00 00 awesome um would uh mind uh adding maintenance speaker 2 00 06 sure main let call ma ...
+max_tokens is too small to fit a single line of text. Breaking this line:
+        speaker 1 00 01 right steps mm hmm affirmative get way use speaker 2 00 06 speaker 3 00 08 type um e ...
+Failed to split docs with must_break_at_empty_line being True, set to False.
+max_tokens is too small to fit a single line of text. Breaking this line:
+        speaker 1 00 01 right steps mm hmm affirmative get way use speaker 2 00 06 speaker 3 00 08 type um e ...
+max_tokens is too small to fit a single line of text. Breaking this line:
+        speaker 1 00 00 used play baseball used softball definitely big thing social aspect uh reverts back  ...
+Failed to split docs with must_break_at_empty_line being True, set to False.
+max_tokens is too small to fit a single line of text. Breaking this line:
+        speaker 1 00 00 used play baseball used softball definitely big thing social aspect uh reverts back  ...
+max_tokens is too small to fit a single line of text. Breaking this line:
+        speaker 1 00 00 hawaii one california house rancho bernardo right outside san diego condo hawaii rig ...
+Failed to split docs with must_break_at_empty_line being True, set to False.
+max_tokens is too small to fit a single line of text. Breaking this line:
+        speaker 1 00 00 hawaii one california house rancho bernardo right outside san diego condo hawaii rig ...
+max_tokens is too small to fit a single line of text. Breaking this line:
+        speaker 1 00 00 like think back last week specifically yeah gonna fill postits gonna sort place time ...
+Failed to split docs with must_break_at_empty_line being True, set to False.
+max_tokens is too small to fit a single line of text. Breaking this line:
+        speaker 1 00 00 like think back last week specifically yeah gonna fill postits gonna sort place time ...
+max_tokens is too small to fit a single line of text. Breaking this line:
+        speaker 1 00 00 yeah keeping weight unhealthy means correct satisfied speaker 2 00 04 goal exactly o ...
+Failed to split docs with must_break_at_empty_line being True, set to False.
+max_tokens is too small to fit a single line of text. Breaking this line:
+        speaker 1 00 00 yeah keeping weight unhealthy means correct satisfied speaker 2 00 04 goal exactly o ...
+max_tokens is too small to fit a single line of text. Breaking this line:
+        speaker 1 00 00 makes think might whole card okay talk speaker 2 00 03 okay speaker 1 00 05 go speak ...
+Failed to split docs with must_break_at_empty_line being True, set to False.
+max_tokens is too small to fit a single line of text. Breaking this line:
+        speaker 1 00 00 makes think might whole card okay talk speaker 2 00 03 okay speaker 1 00 05 go speak ...
+max_tokens is too small to fit a single line of text. Breaking this line:
+        speaker 1 00 49 thought speaker 2 00 51 lot overwhelming laugh like lot information speaker 1 00 58  ...
+Failed to split docs with must_break_at_empty_line being True, set to False.
+max_tokens is too small to fit a single line of text. Breaking this line:
+        speaker 1 00 49 thought speaker 2 00 51 lot overwhelming laugh like lot information speaker 1 00 58  ...
+max_tokens is too small to fit a single line of text. Breaking this line:
+        speaker 1 00 00 rollers air cause speaker 2 00 01 okay speaker 1 00 03 good laugh speaker 2 00 03 th ...
+Failed to split docs with must_break_at_empty_line being True, set to False.
+max_tokens is too small to fit a single line of text. Breaking this line:
+        speaker 1 00 00 rollers air cause speaker 2 00 01 okay speaker 1 00 03 good laugh speaker 2 00 03 th ...
+max_tokens is too small to fit a single line of text. Breaking this line:
+        speaker 1 00 00 um uh let know today perfect um signed consent form already submitted recruiter yeah ...
+Failed to split docs with must_break_at_empty_line being True, set to False.
+max_tokens is too small to fit a single line of text. Breaking this line:
+        speaker 1 00 00 um uh let know today perfect um signed consent form already submitted recruiter yeah ...
+max_tokens is too small to fit a single line of text. Breaking this line:
+        able jigsaw puzzles could little bit diverse um would love like jigsaw puzzle like megan stallion ji ...
+max_tokens is too small to fit a single line of text. Breaking this line:
+        speaker 1 00 00 sir um interested understanding uh know barriers pain points already kind go back tr ...
+Failed to split docs with must_break_at_empty_line being True, set to False.
+max_tokens is too small to fit a single line of text. Breaking this line:
+        speaker 1 00 00 sir um interested understanding uh know barriers pain points already kind go back tr ...
+max_tokens is too small to fit a single line of text. Breaking this line:
+        obesity issues grandmom used lie around nothing head think ingrained never want try keep moving kind ...
+max_tokens is too small to fit a single line of text. Breaking this line:
+        speaker 1 00 00 something done times high blood pressure diabetes controlled eating exercising used  ...
+Failed to split docs with must_break_at_empty_line being True, set to False.
+max_tokens is too small to fit a single line of text. Breaking this line:
+        speaker 1 00 00 something done times high blood pressure diabetes controlled eating exercising used  ...
+max_tokens is too small to fit a single line of text. Breaking this line:
+        nteresting yes tell us speaker 2 08 43 speaker 1 08 43 um kind box sticks kind beating ball differen ...
+max_tokens is too small to fit a single line of text. Breaking this line:
+        speaker 1 00 00 anything like laugh speaker 2 00 01 got speaker 1 00 02 yeah speaker 2 00 04 element ...
+Failed to split docs with must_break_at_empty_line being True, set to False.
+max_tokens is too small to fit a single line of text. Breaking this line:
+        speaker 1 00 00 anything like laugh speaker 2 00 01 got speaker 1 00 02 yeah speaker 2 00 04 element ...
+max_tokens is too small to fit a single line of text. Breaking this line:
+        ould say top three pick top three know see progress sort umbrella give one freebie top three uh goal ...
+max_tokens is too small to fit a single line of text. Breaking this line:
+        speaker 1 00 00 affirmative right tell know speed many miles going trust calories burned trust trust ...
+Failed to split docs with must_break_at_empty_line being True, set to False.
+max_tokens is too small to fit a single line of text. Breaking this line:
+        speaker 1 00 00 affirmative right tell know speed many miles going trust calories burned trust trust ...
+max_tokens is too small to fit a single line of text. Breaking this line:
+        speaker 1 00 00 important happy um wanna look movement exercise like dreadful thing need look good w ...
+Failed to split docs with must_break_at_empty_line being True, set to False.
+max_tokens is too small to fit a single line of text. Breaking this line:
+        speaker 1 00 00 important happy um wanna look movement exercise like dreadful thing need look good w ...
+max_tokens is too small to fit a single line of text. Breaking this line:
+        ike stuff important looking good yeah stress still look good happy still look good fool still look g ...
+max_tokens is too small to fit a single line of text. Breaking this line:
+        speaker 1 00 00 affirmative count rest day goals day speaker 2 00 05 oh general training mean speake ...
+Failed to split docs with must_break_at_empty_line being True, set to False.
+max_tokens is too small to fit a single line of text. Breaking this line:
+        speaker 1 00 00 affirmative count rest day goals day speaker 2 00 05 oh general training mean speake ...
+max_tokens is too small to fit a single line of text. Breaking this line:
+        speaker 1 00 01 let get started speaker 2 00 03 right fun bun okay speaker 1 00 07 um thank speaker  ...
+Failed to split docs with must_break_at_empty_line being True, set to False.
+max_tokens is too small to fit a single line of text. Breaking this line:
+        speaker 1 00 01 let get started speaker 2 00 03 right fun bun okay speaker 1 00 07 um thank speaker  ...
+max_tokens is too small to fit a single line of text. Breaking this line:
+        ids speaker 1 07 29 yeah got um got speaker 2 07 34 pins yeah speaker 1 07 36 using pins got uh writ ...
+max_tokens is too small to fit a single line of text. Breaking this line:
+        speaker 1 00 00 wife know heard stories fall surfboard get paralyzed let surf laugh always wanted tr ...
+Failed to split docs with must_break_at_empty_line being True, set to False.
+max_tokens is too small to fit a single line of text. Breaking this line:
+        speaker 1 00 00 wife know heard stories fall surfboard get paralyzed let surf laugh always wanted tr ...
+max_tokens is too small to fit a single line of text. Breaking this line:
+        speaker 1 00 00 affirmative okay already got uh forms signed everything cool know recording um remin ...
+Failed to split docs with must_break_at_empty_line being True, set to False.
+max_tokens is too small to fit a single line of text. Breaking this line:
+        speaker 1 00 00 affirmative okay already got uh forms signed everything cool know recording um remin ...
+max_tokens is too small to fit a single line of text. Breaking this line:
+        ke yeah wanna reason back surgery sales director sitting chair day say gonna get every hour whatever ...
+max_tokens is too small to fit a single line of text. Breaking this line:
+        speaker 1 00 00 mostly classes yeah fun people go stuff lot friend moved suburbs um one main goals l ...
+Failed to split docs with must_break_at_empty_line being True, set to False.
+max_tokens is too small to fit a single line of text. Breaking this line:
+        speaker 1 00 00 mostly classes yeah fun people go stuff lot friend moved suburbs um one main goals l ...
+max_tokens is too small to fit a single line of text. Breaking this line:
+        ngs yeah bloom grown yeah bloom wherever planted wherever wherever know um brene brown someone said  ...
+max_tokens is too small to fit a single line of text. Breaking this line:
+        speaker 1 00 00 pretty bottom yeah oh um think said uh seems like something like outward facing peop ...
+Failed to split docs with must_break_at_empty_line being True, set to False.
+max_tokens is too small to fit a single line of text. Breaking this line:
+        speaker 1 00 00 pretty bottom yeah oh um think said uh seems like something like outward facing peop ...
+max_tokens is too small to fit a single line of text. Breaking this line:
+         day yeah yeah uh lot warmer california speaker 1 08 29 yeah speaker 2 08 33 go ahead speaker 4 08 3 ...
+max_tokens is too small to fit a single line of text. Breaking this line:
+        speaker 1 00 00 okay um complete something like worry finishing thing really talking thoughts well s ...
+Failed to split docs with must_break_at_empty_line being True, set to False.
+max_tokens is too small to fit a single line of text. Breaking this line:
+        speaker 1 00 00 okay um complete something like worry finishing thing really talking thoughts well s ...
+max_tokens is too small to fit a single line of text. Breaking this line:
+         2 08 26 workforce maybe maybe satisfaction essentially think mental like long completed workout thi ...
+max_tokens is too small to fit a single line of text. Breaking this line:
+        speaker 1 00 00 well um realize like anything stress like get angry um clear head space um realized  ...
+Failed to split docs with must_break_at_empty_line being True, set to False.
+max_tokens is too small to fit a single line of text. Breaking this line:
+        speaker 1 00 00 well um realize like anything stress like get angry um clear head space um realized  ...
+max_tokens is too small to fit a single line of text. Breaking this line:
+        speaker 1 00 00 yes like catherine told could look good proud speaker 2 00 08 mm hmm affirmative enc ...
+Failed to split docs with must_break_at_empty_line being True, set to False.
+max_tokens is too small to fit a single line of text. Breaking this line:
+        speaker 1 00 00 yes like catherine told could look good proud speaker 2 00 08 mm hmm affirmative enc ...
+max_tokens is too small to fit a single line of text. Breaking this line:
+        speaker 1 00 06 okay yeah speaker 2 00 07 back back yep right speaker 3 00 10 speaker 4 00 10 run me ...
+Failed to split docs with must_break_at_empty_line being True, set to False.
+max_tokens is too small to fit a single line of text. Breaking this line:
+        speaker 1 00 06 okay yeah speaker 2 00 07 back back yep right speaker 3 00 10 speaker 4 00 10 run me ...
+max_tokens is too small to fit a single line of text. Breaking this line:
+        speaker 1 00 00 um love get poster movement thing speaker 2 00 04 okay speaker 1 00 05 um gonna gonn ...
+Failed to split docs with must_break_at_empty_line being True, set to False.
+max_tokens is too small to fit a single line of text. Breaking this line:
+        speaker 1 00 00 um love get poster movement thing speaker 2 00 04 okay speaker 1 00 05 um gonna gonn ...
+max_tokens is too small to fit a single line of text. Breaking this line:
+         together till died um good man always mother never remarried mm hmm affirmative good man good man m ...
+max_tokens is too small to fit a single line of text. Breaking this line:
+        speaker 1 00 00 let go ride bikes like exercise stuff like speaker 2 00 03 know called much exercise ...
+Failed to split docs with must_break_at_empty_line being True, set to False.
+max_tokens is too small to fit a single line of text. Breaking this line:
+        speaker 1 00 00 let go ride bikes like exercise stuff like speaker 2 00 03 know called much exercise ...
+max_tokens is too small to fit a single line of text. Breaking this line:
+        speaker 1 00 00 like lose mind laugh speaker 2 00 03 things better left speaker 1 00 05 yeah yeah sp ...
+Failed to split docs with must_break_at_empty_line being True, set to False.
+max_tokens is too small to fit a single line of text. Breaking this line:
+        speaker 1 00 00 like lose mind laugh speaker 2 00 03 things better left speaker 1 00 05 yeah yeah sp ...
+max_tokens is too small to fit a single line of text. Breaking this line:
+        speaker 1 00 00 like think back last week specifically yeah gonna fill postits gonna sort place time ...
+Failed to split docs with must_break_at_empty_line being True, set to False.
+max_tokens is too small to fit a single line of text. Breaking this line:
+        speaker 1 00 00 like think back last week specifically yeah gonna fill postits gonna sort place time ...
+max_tokens is too small to fit a single line of text. Breaking this line:
+        speaker 1 00 00 time foot spins ground makes contact angle strike foot makes hits ground speaker 2 0 ...
+Failed to split docs with must_break_at_empty_line being True, set to False.
+max_tokens is too small to fit a single line of text. Breaking this line:
+        speaker 1 00 00 time foot spins ground makes contact angle strike foot makes hits ground speaker 2 0 ...
+max_tokens is too small to fit a single line of text. Breaking this line:
+        speaker 1 00 01 hope sharp well want pick everything else hear speaker 2 00 11 yeah speaker 1 00 13  ...
+Failed to split docs with must_break_at_empty_line being True, set to False.
+max_tokens is too small to fit a single line of text. Breaking this line:
+        speaker 1 00 01 hope sharp well want pick everything else hear speaker 2 00 11 yeah speaker 1 00 13  ...
+max_tokens is too small to fit a single line of text. Breaking this line:
+        speaker 1 00 00 interested um gonna track calories speaker 2 00 05 counting actually researching thi ...
+Failed to split docs with must_break_at_empty_line being True, set to False.
+max_tokens is too small to fit a single line of text. Breaking this line:
+        speaker 1 00 00 interested um gonna track calories speaker 2 00 05 counting actually researching thi ...
+max_tokens is too small to fit a single line of text. Breaking this line:
+        m affirmative physically able physically able hurts right speaker 1 07 37 trying avoid ice back corr ...
+max_tokens is too small to fit a single line of text. Breaking this line:
+        speaker 1 00 00 one would really watch think one things led back problems downstairs basement half b ...
+Failed to split docs with must_break_at_empty_line being True, set to False.
+max_tokens is too small to fit a single line of text. Breaking this line:
+        speaker 1 00 00 one would really watch think one things led back problems downstairs basement half b ...
+max_tokens is too small to fit a single line of text. Breaking this line:
+        speaker 1 00 00 like speaker 2 00 01 story um swimming friend part reason like swimming speaker 1 00 ...
+Failed to split docs with must_break_at_empty_line being True, set to False.
+max_tokens is too small to fit a single line of text. Breaking this line:
+        speaker 1 00 00 like speaker 2 00 01 story um swimming friend part reason like swimming speaker 1 00 ...
+max_tokens is too small to fit a single line of text. Breaking this line:
+        nese like like frozen like corn dogs like kind stuff know mean yeah yeah um fine cool like go kind t ...
+max_tokens is too small to fit a single line of text. Breaking this line:
+        speaker 1 00 00 routine change fall work around speaker 2 00 08 um mean wrote somewhere get like min ...
+Failed to split docs with must_break_at_empty_line being True, set to False.
+max_tokens is too small to fit a single line of text. Breaking this line:
+        speaker 1 00 00 routine change fall work around speaker 2 00 08 um mean wrote somewhere get like min ...
+max_tokens is too small to fit a single line of text. Breaking this line:
+        nk mind body like dual dual purpose speaker 1 08 26 like biking mind body well body speaker 2 08 31  ...
+max_tokens is too small to fit a single line of text. Breaking this line:
+        speaker 1 00 02 right speaker 2 00 04 yeah okay oh yeah feel like get like personalized guidance fac ...
+Failed to split docs with must_break_at_empty_line being True, set to False.
+max_tokens is too small to fit a single line of text. Breaking this line:
+        speaker 1 00 02 right speaker 2 00 04 yeah okay oh yeah feel like get like personalized guidance fac ...
+max_tokens is too small to fit a single line of text. Breaking this line:
+        speaker 1 00 00 comments people make know fall arena like um richard simmons says people commented 4 ...
+Failed to split docs with must_break_at_empty_line being True, set to False.
+max_tokens is too small to fit a single line of text. Breaking this line:
+        speaker 1 00 00 comments people make know fall arena like um richard simmons says people commented 4 ...
+max_tokens is too small to fit a single line of text. Breaking this line:
+        speaker 1 00 00 um uh let know today perfect um signed consent form already submitted recruiter yeah ...
+Failed to split docs with must_break_at_empty_line being True, set to False.
+max_tokens is too small to fit a single line of text. Breaking this line:
+        speaker 1 00 00 um uh let know today perfect um signed consent form already submitted recruiter yeah ...
+max_tokens is too small to fit a single line of text. Breaking this line:
+        siness really like jigsaw puzzles um think imagery available jigsaw puzzles could little bit diverse ...
+max_tokens is too small to fit a single line of text. Breaking this line:
+        speaker 1 00 00 want speaker 2 00 01 outcome goal speaker 1 00 05 saying think outcome correct okay  ...
+Failed to split docs with must_break_at_empty_line being True, set to False.
+max_tokens is too small to fit a single line of text. Breaking this line:
+        speaker 1 00 00 want speaker 2 00 01 outcome goal speaker 1 00 05 saying think outcome correct okay  ...
+max_tokens is too small to fit a single line of text. Breaking this line:
+        r challenging going get every day going get sort activity day skip day speaker 2 08 39 challenging c ...
+max_tokens is too small to fit a single line of text. Breaking this line:
+        speaker 1 00 00 know walked tennis college um lot golf started racquetball college well um always kn ...
+Failed to split docs with must_break_at_empty_line being True, set to False.
+max_tokens is too small to fit a single line of text. Breaking this line:
+        speaker 1 00 00 know walked tennis college um lot golf started racquetball college well um always kn ...
+max_tokens is too small to fit a single line of text. Breaking this line:
+        speaker 1 00 02 ever like watch speaker 2 00 06 think shying away think unless think shy away accoun ...
+Failed to split docs with must_break_at_empty_line being True, set to False.
+max_tokens is too small to fit a single line of text. Breaking this line:
+        speaker 1 00 02 ever like watch speaker 2 00 06 think shying away think unless think shy away accoun ...
+max_tokens is too small to fit a single line of text. Breaking this line:
+        speaker 1 00 03 cool right learning lessons laugh speaker 2 00 08 alright alright good right awesome ...
+Failed to split docs with must_break_at_empty_line being True, set to False.
+max_tokens is too small to fit a single line of text. Breaking this line:
+        speaker 1 00 03 cool right learning lessons laugh speaker 2 00 08 alright alright good right awesome ...
+max_tokens is too small to fit a single line of text. Breaking this line:
+        ve done marathons um done actual like big official race yeah done one like five years um friend baby ...
+max_tokens is too small to fit a single line of text. Breaking this line:
+        speaker 1 00 00 thing getting little world um help um think anything hit emo emotionally sense movem ...
+Failed to split docs with must_break_at_empty_line being True, set to False.
+max_tokens is too small to fit a single line of text. Breaking this line:
+        speaker 1 00 00 thing getting little world um help um think anything hit emo emotionally sense movem ...
+max_tokens is too small to fit a single line of text. Breaking this line:
+        speaker 1 00 00 shape pickleball get back shape get active mm um uh working health club know really  ...
+Failed to split docs with must_break_at_empty_line being True, set to False.
+max_tokens is too small to fit a single line of text. Breaking this line:
+        speaker 1 00 00 shape pickleball get back shape get active mm um uh working health club know really  ...
+max_tokens is too small to fit a single line of text. Breaking this line:
+        speaker 1 00 00 story people people family know starting better little sister brother friends come s ...
+Failed to split docs with must_break_at_empty_line being True, set to False.
+max_tokens is too small to fit a single line of text. Breaking this line:
+        speaker 1 00 00 story people people family know starting better little sister brother friends come s ...
+max_tokens is too small to fit a single line of text. Breaking this line:
+        re type disease manage stress area um sometimes stress able exercise helps manage also keep challeng ...
+max_tokens is too small to fit a single line of text. Breaking this line:
+        speaker 1 00 00 important least important speaker 2 00 06 uh speaker 1 00 09 challenge two kind thin ...
+Failed to split docs with must_break_at_empty_line being True, set to False.
+max_tokens is too small to fit a single line of text. Breaking this line:
+        speaker 1 00 00 important least important speaker 2 00 06 uh speaker 1 00 09 challenge two kind thin ...
+max_tokens is too small to fit a single line of text. Breaking this line:
+        speaker 1 00 00 affirmative uh comes fitness exercise speaker 2 00 05 oh man know familiar like vide ...
+Failed to split docs with must_break_at_empty_line being True, set to False.
+max_tokens is too small to fit a single line of text. Breaking this line:
+        speaker 1 00 00 affirmative uh comes fitness exercise speaker 2 00 05 oh man know familiar like vide ...
+max_tokens is too small to fit a single line of text. Breaking this line:
+        speaker 1 00 00 really working like okay gym days many steps yesterday 12 000 okay right well feel l ...
+Failed to split docs with must_break_at_empty_line being True, set to False.
+max_tokens is too small to fit a single line of text. Breaking this line:
+        speaker 1 00 00 really working like okay gym days many steps yesterday 12 000 okay right well feel l ...
+max_tokens is too small to fit a single line of text. Breaking this line:
+        speaker 1 00 00 um really utilize wellness app apple watch okay speaker 2 00 06 okay mm hmm affirmat ...
+Failed to split docs with must_break_at_empty_line being True, set to False.
+max_tokens is too small to fit a single line of text. Breaking this line:
+        speaker 1 00 00 um really utilize wellness app apple watch okay speaker 2 00 06 okay mm hmm affirmat ...
+max_tokens is too small to fit a single line of text. Breaking this line:
+        speaker 1 00 01 love personal chef love love love speaker 2 00 05 graduated speaker 1 00 06 course b ...
+Failed to split docs with must_break_at_empty_line being True, set to False.
+max_tokens is too small to fit a single line of text. Breaking this line:
+        speaker 1 00 01 love personal chef love love love speaker 2 00 05 graduated speaker 1 00 06 course b ...
+max_tokens is too small to fit a single line of text. Breaking this line:
+        speaker 1 00 00 helps cause feel like um like explain forms think biggest thing trying work making s ...
+Failed to split docs with must_break_at_empty_line being True, set to False.
+max_tokens is too small to fit a single line of text. Breaking this line:
+        speaker 1 00 00 helps cause feel like um like explain forms think biggest thing trying work making s ...
+max_tokens is too small to fit a single line of text. Breaking this line:
+        speaker 1 00 00 um uh let know today perfect um signed consent form already submitted recruiter yeah ...
+Failed to split docs with must_break_at_empty_line being True, set to False.
+max_tokens is too small to fit a single line of text. Breaking this line:
+        speaker 1 00 00 um uh let know today perfect um signed consent form already submitted recruiter yeah ...
+max_tokens is too small to fit a single line of text. Breaking this line:
+        able jigsaw puzzles could little bit diverse um would love like jigsaw puzzle like megan stallion ji ...
+max_tokens is too small to fit a single line of text. Breaking this line:
+        speaker 1 00 00 okay worked foot locker met lot guys always baseball stories yeah story behind reebo ...
+Failed to split docs with must_break_at_empty_line being True, set to False.
+max_tokens is too small to fit a single line of text. Breaking this line:
+        speaker 1 00 00 okay worked foot locker met lot guys always baseball stories yeah story behind reebo ...
+max_tokens is too small to fit a single line of text. Breaking this line:
+        speaker 1 00 00 like really resonates terms like want speaker 2 00 05 yeah think resonates cuz reall ...
+Failed to split docs with must_break_at_empty_line being True, set to False.
+max_tokens is too small to fit a single line of text. Breaking this line:
+        speaker 1 00 00 like really resonates terms like want speaker 2 00 05 yeah think resonates cuz reall ...
+max_tokens is too small to fit a single line of text. Breaking this line:
+        speaker 1 00 00 setting uh kind broadly go okay today um already got consent form way um yeah talkin ...
+Failed to split docs with must_break_at_empty_line being True, set to False.
+max_tokens is too small to fit a single line of text. Breaking this line:
+        speaker 1 00 00 setting uh kind broadly go okay today um already got consent form way um yeah talkin ...
+max_tokens is too small to fit a single line of text. Breaking this line:
+        fected guess like ability consistent working speaker 2 06 40 um know think good attitude stay consis ...
+max_tokens is too small to fit a single line of text. Breaking this line:
+        speaker 1 00 00 community um thinking app experience community wearable device like something maybe  ...
+Failed to split docs with must_break_at_empty_line being True, set to False.
+max_tokens is too small to fit a single line of text. Breaking this line:
+        speaker 1 00 00 community um thinking app experience community wearable device like something maybe  ...
+max_tokens is too small to fit a single line of text. Breaking this line:
+        speaker 1 00 00 valuable tool understanding unlocking awareness world actually looks like many peopl ...
+Failed to split docs with must_break_at_empty_line being True, set to False.
+max_tokens is too small to fit a single line of text. Breaking this line:
+        speaker 1 00 00 valuable tool understanding unlocking awareness world actually looks like many peopl ...
+max_tokens is too small to fit a single line of text. Breaking this line:
+        outside organic know however going happen makes sense speaker 2 09 35 think um know got game play si ...
+max_tokens is too small to fit a single line of text. Breaking this line:
+        speaker 1 00 00 uh tight cuz normally active sitting like legs started get little tight hmm cuz usua ...
+Failed to split docs with must_break_at_empty_line being True, set to False.
+max_tokens is too small to fit a single line of text. Breaking this line:
+        speaker 1 00 00 uh tight cuz normally active sitting like legs started get little tight hmm cuz usua ...
+max_tokens is too small to fit a single line of text. Breaking this line:
+        tside eliquis get cold easily mm hmm affirmative um put layers think one videos talked though put lo ...
+max_tokens is too small to fit a single line of text. Breaking this line:
+        speaker 1 00 00 warmest thing um yeah interested wanna go inside uh speaker 2 00 08 yeah yeah laugh  ...
+Failed to split docs with must_break_at_empty_line being True, set to False.
+max_tokens is too small to fit a single line of text. Breaking this line:
+        speaker 1 00 00 warmest thing um yeah interested wanna go inside uh speaker 2 00 08 yeah yeah laugh  ...
+No text available in file: /Users/stevenmorse33/Documents/ResearchStrategy/ProcessedText/~$C0126.docx_processed.txt
+max_tokens is too small to fit a single line of text. Breaking this line:
+        speaker 1 00 00 hawaii year last year could golf put ice pack plane put ice pack plane 40 minutes go ...
+Failed to split docs with must_break_at_empty_line being True, set to False.
+max_tokens is too small to fit a single line of text. Breaking this line:
+        speaker 1 00 00 hawaii year last year could golf put ice pack plane put ice pack plane 40 minutes go ...
+max_tokens is too small to fit a single line of text. Breaking this line:
+        speaker 1 00 00 oh come back yeah wow speaker 2 00 03 go speaker 1 00 04 okay thank speaker 2 00 06  ...
+Failed to split docs with must_break_at_empty_line being True, set to False.
+max_tokens is too small to fit a single line of text. Breaking this line:
+        speaker 1 00 00 oh come back yeah wow speaker 2 00 03 go speaker 1 00 04 okay thank speaker 2 00 06  ...
+max_tokens is too small to fit a single line of text. Breaking this line:
+        speaker 1 00 00 really like especially cuz many people um slack super helpful keep everything organi ...
+Failed to split docs with must_break_at_empty_line being True, set to False.
+max_tokens is too small to fit a single line of text. Breaking this line:
+        speaker 1 00 00 really like especially cuz many people um slack super helpful keep everything organi ...
+max_tokens is too small to fit a single line of text. Breaking this line:
+        er 1 07 39 slack group use nike run challenges um use um october american public health association  ...
+max_tokens is too small to fit a single line of text. Breaking this line:
+        speaker 1 00 00 turn walk apple watch like wish would report nike run vice versa um speaker 2 00 12  ...
+Failed to split docs with must_break_at_empty_line being True, set to False.
+max_tokens is too small to fit a single line of text. Breaking this line:
+        speaker 1 00 00 turn walk apple watch like wish would report nike run vice versa um speaker 2 00 12  ...
+max_tokens is too small to fit a single line of text. Breaking this line:
+        speaker 1 00 01 um yeah good finally meet speaker 2 00 04 laugh speaker 1 00 05 laugh um distinct pl ...
+Failed to split docs with must_break_at_empty_line being True, set to False.
+max_tokens is too small to fit a single line of text. Breaking this line:
+        speaker 1 00 01 um yeah good finally meet speaker 2 00 04 laugh speaker 1 00 05 laugh um distinct pl ...
+max_tokens is too small to fit a single line of text. Breaking this line:
+         06 25 um guess cuz drowned two two times laugh yeah like younger drowned one time water park almost ...
+max_tokens is too small to fit a single line of text. Breaking this line:
+        speaker 1 00 00 um cool awesome um think uh incredible story speaker 2 00 08 one things tell yeah um ...
+Failed to split docs with must_break_at_empty_line being True, set to False.
+max_tokens is too small to fit a single line of text. Breaking this line:
+        speaker 1 00 00 um cool awesome um think uh incredible story speaker 2 00 08 one things tell yeah um ...
+max_tokens is too small to fit a single line of text. Breaking this line:
+        alt laugh um like telling jerry times never forget one day rough day work um come home um decided go ...
+max_tokens is too small to fit a single line of text. Breaking this line:
+        speaker 1 00 00 quite desolate trails trail runner like like things around uh like example beltline  ...
+Failed to split docs with must_break_at_empty_line being True, set to False.
+max_tokens is too small to fit a single line of text. Breaking this line:
+        speaker 1 00 00 quite desolate trails trail runner like like things around uh like example beltline  ...
+max_tokens is too small to fit a single line of text. Breaking this line:
+        speaker 1 00 00 okay well lose weight cuz keto thing supposed least lose pound day three pounds day  ...
+Failed to split docs with must_break_at_empty_line being True, set to False.
+max_tokens is too small to fit a single line of text. Breaking this line:
+        speaker 1 00 00 okay well lose weight cuz keto thing supposed least lose pound day three pounds day  ...
+max_tokens is too small to fit a single line of text. Breaking this line:
+        speaker 1 00 00 miami back miami cool know cool laugh mean know think lot freedom used got hurt laug ...
+Failed to split docs with must_break_at_empty_line being True, set to False.
+max_tokens is too small to fit a single line of text. Breaking this line:
+        speaker 1 00 00 miami back miami cool know cool laugh mean know think lot freedom used got hurt laug ...
+doc_ids:  [['doc_61', 'doc_80', 'doc_74']]
+Adding doc_id doc_61 to context.
+Adding doc_id doc_80 to context.
+Adding doc_id doc_74 to context.
+ragAssistant (to chat_manager):
+
+You're a retrieve augmented coding assistant. You answer user's questions based on your own knowledge and the
+context provided by the user.
+If you can't answer the question with or without the current context, you should reply exactly `UPDATE CONTEXT`.
+For code generation, you must obey the following rules:
+Rule 1. You MUST NOT install any packages because all the packages needed are already installed.
+Rule 2. You must follow the formats below to write your code:
+```language
+# your code
+```
+
+User's question is: You are a consulting firm working with your client: Nike. Your job is to create completely new, innovative digital products that millions of athletes would find desirable. Each must fit inside of a new app 
+called Nike Move. This app helps any level of athelte stay moving. Each of the three offerings must have a digital element people would pay for and compel the athlete to buy other Nike products. 
+
+Context is: eight speaker 3 08 17 um mentioned go next thing um made think secondary goals mentioned want able run marathon 80 goals like maybe closer like 80 speaker 1 08 35 um know mind winning marathon next year training interesting 5k marathon speaker 3 08 43 would would would go speaker 1 08 47 um probably find somebody facebook group prior personal trainer um go gym mm hmm affirmative train 5k marathon bring level speaker 3 09 07 um willing commit like would want go gym would um would would things would would pay money would use app like speaker 1 09 21 speaker 3 09 22 things might get place speaker 1 09 25 hire personal trainer okay start come home start mm hmm affirmative uh work know work level area maybe start scoping block bringing bringing bigger scale five k 5k run love speaker 3 09 47 um would seek like organized race would plan function speaker 1 09 52 uh seek organize race like bank america mm hmm affirmative big ones come tv see bef know um back day speaker 3 10 10 would get put plan action um get piece paper yes one okay um well um actually think already kind talked uh um love ask like top goal mentioned secondary goals supporting people kind talked potential big event like race future mm hmm affirmative um could anything kind tool could wave magic wand would would would want get like maintain goals achieve next next milestone speaker 1 11 07 know wow could love personal trainer yeah know know like well would pay personal trainer gonna teach determination within mind gonna push instead paying
+go hiking speaker 1 15 14 forth come specific uh set shoes task speaker 2 15 19 yeah cuz need support less support um biking upstairs need much support bike old pair gym shoes actually pretty good support wanted walk run little bit hike support um gym shoes grass gonna get dirty forth old pair shoes started develop little hole bottom know really good support want go long rock good outside cutting grass cutting bushes pair shoes old pair shoes started develop little hole bottom show um rescue place little puppies watch puppies older dogs older dogs fostered nothing puppies place uhhuh affirmative chew shoe chew lace laces need much support cuz small facility still running around dogs forth much speaker 1 16 18 buying one type shoe age yes designating okay like researching like best shoe yard work kind shoe speaker 2 16 27 buy yeah cuz know almost exclusively nike okay buy lot zoom nike get stuff nike app always like two brand new pairs shoes upstairs closet times cuz really good shoes know everything get new style old style kind goes well always get old style going buying shoes always couple pairers cause always looking sales buy 129 pair shoes 49 mm hmm still good show upstairs shoes um biking um actually biking shoes um good walking found shoes good walking cuz hurt feet cuz support right used biking know walking bike hurt speaker 1 17 20 research uh mean sounds like okay prefer nike use app buy choose buy speaker 2 17 29 nike um nike app really detailed show bought forth um articles come also um remember call new shoe comes uh show shoe forth special shoe forth um read lot articles speaker 3 17 51 read speaker 2 17 52 nike directly read like write nike right nike want information google mean hear google lot learn know gotcha specialized shoes like even pickleball shoes walking hiking shoes good support like thought buying like pair tennis shoes actually walking hike know pretty much walking running shoes really good pickleball support really good trying buy tennis shoe think soul tennis shoe little bit harder forth feel comfortable works yeah people would probably say oh gotta get really good pair tennis shoes like even play golf wear pair golf shoes wear walking shoes speaker 3 18 41 comfort speaker 2 18 43 level comfort good pair running shoes mean really good pair speaker 3 18 48 gonna show transition actually ask one question yeah sure um curious listening talk like especially way really managed health like recent years could go back time talk 35 40 somewhere advice would give oh speaker 2 19 06 gosh much advice would
+speaker 1 00 00 time foot spins ground makes contact angle strike foot makes hits ground speaker 2 00 07 information speaker 1 00 09 um use try tweak form also based based run gives feedback suggests things tweak form run faster expend much energy run speaker 2 00 23 um find helpful speaker 1 00 26 speaker 2 00 27 real time look speaker 1 00 29 uh af look speaker 2 00 31 okay like post game video analysis speaker 1 00 33 something like yeah okay speaker 2 00 36 um also remember correctly diary like 10 pairs running shoes speaker 1 00 42 uh yeah speaker 2 00 44 counting speaker 1 00 48 10 might bit high clo close 10 cuz got two pairs actually fun story um got gray black black white red say green pan somewhere yeah 10 might close okay like nine 10 somewhere neck woods upstairs speaker 2 01 15 yeah thank um two different colors different speaker 1 01 22 shoe yeah um made mistake ones buying black shoes uhhuh affirmative got confused know two pairs shoes exact style exact color know shoe matches pair would get mixed order fill apart started started buying different color different colors style um really care color long white running streets shoes get filthy yeah speaker 2 01 53 yeah speaker 1 01 53 like white shoes never white first time wear em matter much wash em matter never white pull box black brown gray red pink green whatever yeah always seems go back whatever color white never seemed ever get white pulled box okay speaker 2 02 14 yeah really smart cause want different wear patterns speaker 1 02 17 exactly okay speaker 2 02 19 um next thing got couple different parts okay um going try create sentence could anything would gonna thing okay helps meet goal order something gotcha suggest start okay thing want okay got bunch different examples right love uh blank case none cards match want speaker 1 02 49 gotcha speaker 2 02 50 um sorry messed starting goals starting okay makes little sense maybe um blank ton different options um love take couple seconds flip pull know uh top couple ones resonate speaker 1 03 21 probably one got four speaker 2 03 24 got four excellent talk us yeah speaker 1 03 27 um like said know manage stress yeah right um bro therapist foul mood go run idea go far enough time get back either worked whatever problem tired care anymore um see progress actually kind funny one um um first thanksgiving 5k 2016 someone really want taught faster like well get good time peachtree road race quick aside peachtree road race world largest 10 k um 2020 atlanta track club member lottery speaker 1 04 14 got submit time time course determines wave start cuz biggest year somewhere 55 60 000 people running thing waves going far alphabet going like x mm hmm affirmative course faster earlier start wave know ever atlanta july attest south summer miserable hot sticky gets hot sticky early like know places evening cools like july august cools high seventies mm hmm affirmative picks back morning sun comes speaker 1 04 58 like ah garbage yeah um happened got like oh fun sign next year time race come november really leaned running instead 5k half marathon got full head well run half marathon certainly run marathon cuz 26 miles could possibly go wrong sign marathon following year know uh first marathon four hours 44 minutes 55 seconds fastest time thus far three hours 54 minutes 46 seconds surprised managed pull marathon four hours average pace 8 58 per mile speaker 1 05 46 thought going die got done like leave forward mail moving cuz legs longer function um yeah uh know also sort blends find push limits uhhuh affirmative um tell people time ne stronger think never know actually try yeah never thought know tell people one runner mm hmm affirmative yeah think runner point got somewhere north like hit first thousand miles like wow okay yeah maybe runner like running shoes pairs running shoes shoes put together um usually go like three four pairs shoes year cuz run much um nobody know want aesthetically appealing yeah yeah mean speaker 2 06 47 yeah yeah speaker 1 06 49 uh someone home cares look wanna look nice wanna like wanna look nice speaker 2 06 54 okay awesome um let keep right going choose know one two later gotcha let think thi
+
+
+
+--------------------------------------------------------------------------------
+huggingface/tokenizers: The current process just got forked, after parallelism has already been used. Disabling parallelism to avoid deadlocks...
+To disable this warning, you can either:
+        - Avoid using `tokenizers` before the fork if possible
+        - Explicitly set the environment variable TOKENIZERS_PARALLELISM=(true | false)
+huggingface/tokenizers: The current process just got forked, after parallelism has already been used. Disabling parallelism to avoid deadlocks...
+To disable this warning, you can either:
+        - Avoid using `tokenizers` before the fork if possible
+        - Explicitly set the environment variable TOKENIZERS_PARALLELISM=(true | false)
+huggingface/tokenizers: The current process just got forked, after parallelism has already been used. Disabling parallelism to avoid deadlocks...
+To disable this warning, you can either:
+        - Avoid using `tokenizers` before the fork if possible
+        - Explicitly set the environment variable TOKENIZERS_PARALLELISM=(true | false)
+huggingface/tokenizers: The current process just got forked, after parallelism has already been used. Disabling parallelism to avoid deadlocks...
+To disable this warning, you can either:
+        - Avoid using `tokenizers` before the fork if possible
+        - Explicitly set the environment variable TOKENIZERS_PARALLELISM=(true | false)
+Planner (to chat_manager):
+
+As a consulting firm working with Nike to create innovative digital products for the Nike Move app, the plan will incorporate a collaborative approach that draws on the unique expertise of each team member. Here's an outline of how the team would work together on this project:
+
+1. **User Experience Manager**: This team member will start by researching and understanding the needs and desires of athletes at all levels. They will identify the key features that athletes would find most desirable in a digital product aimed at keeping them moving. Surveys, user testing, and interviews will be essential in this phase to gather data.
+
+2. **Brand Manager**: Aligning the new product offerings with Nike’s brand image and values is crucial. The Brand Manager will ensure that the offerings are consistent with Nike's messaging and appeal to the company's target demographics. They'll also work to create synergy between the digital products and physical Nike products.
+
+3. **Profit Manager**: Will work closely with all team members to outline how each product will drive profit. This might include developing a freemium model with premium features, partnerships, or tie-ins with Nike gear that can enhance the digital experience and drive sales.
+
+4. **Capabilities Manager**: Will assess the technical and operational capabilities of Nike in terms of delivering the proposed digital offerings. They will make sure that the ideas are feasible and align with the company's technological infrastructure and resources.
+
+5. **Partners Manager**: Identifying potential collaborations with tech companies, fitness professionals, or other brands that could add value to the digital offerings. They might look into partnerships for exclusive content, features, or distribution opportunities.
+
+6. **Channel Manager**: Responsible for determining the most effective channels for delivering the new digital offerings. This includes the app storefronts, online marketing channels, and methods for integrating the digital products with existing Nike sales channels.
+
+7. **Offerings Manager**: Will describe and define the specifics of each digital product offering, making sure they are compelling, unique, and have a digital element that users would pay for.
+
+Each of these team members will need to work in a coordinated way, constantly sharing insights and feedback to refine and improve the product offerings. Here's the proposed plan for developing the Nike Move app's new digital products:
+
+**Phase 1: Research and Ideation**
+- User Experience Manager conducts market research and gathers athlete insights.
+- Offerings Manager works on creating initial concepts for digital products.
+
+**Phase 2: Branding and Strategy Development**
+- Brand Manager ensures concepts are aligned with Nike's brand values.
+- Profit Manager outlines the potential revenue models for each product.
+
+**Phase 3: Feasibility and Capability Analysis**
+- Capabilities Manager assesses Nike's ability to develop and support the offerings.
+- Partners Manager identifies potential partnership opportunities to enhance the offerings.
+
+**Phase 4: Channel Strategy and Marketing Planning**
+- Channel Manager plans the distribution model for each digital product.
+- All team members contribute to a marketing plan that leverages Nike's existing channels and identifies new ones.
+
+**Phase 5: Prototyping and User Testing**
+- Coordinate a small-scale launch of prototypes based on team collaboration.
+- User Experience Manager leads user testing and gathers feedback for refinements.
+
+**Phase 6: Finalization and Launch**
+- Final adjustments are made based on testing feedback.
+- A full-scale launch is executed, with ongoing monitoring and adjusting by each team member according to their expertise.
+
+**Phase 7: Post-Launch Analysis and Iteration**
+- Profit Manager analyzes sales and profitability data.
+- All team members use post-launch data to iterate and refine the products.
+
+Let me know if this aligns with the client's expectations, or if there are any areas that need adjustment or additional detail.
+
+--------------------------------------------------------------------------------
+huggingface/tokenizers: The current process just got forked, after parallelism has already been used. Disabling parallelism to avoid deadlocks...
+To disable this warning, you can either:
+        - Avoid using `tokenizers` before the fork if possible
+        - Explicitly set the environment variable TOKENIZERS_PARALLELISM=(true | false)
+userExperienceManager (to chat_manager):
+
+To create a successful new product, it is essential to start by identifying the most important users and stakeholders. For the Nike Move app, these users would primarily be athletes of varying skill levels, along with other stakeholders such as sports coaches, fitness enthusiasts, and Nike product purchasers. Here is a breakdown of their wants, needs, aspirations, and potential workarounds:
+
+### Important Users:
+
+#### Beginner Athletes
+- **Wants**: Simple, easy-to-use guidance to start exercising.
+- **Needs**: Motivational tools and basic training programs.
+- **Aspirations**: To become more active and establish a fitness routine.
+- **Workarounds**: May currently use various free fitness apps or follow workout videos online.
+
+#### Intermediate Athletes
+- **Wants**: To track progress and get recommendations to improve performance.
+- **Needs**: Personalized training plans and gear recommendations.
+- **Aspirations**: To participate in races or improve personal bests.
+- **Workarounds**: Combining different apps for training, tracking, and community support.
+
+#### Advanced Athletes
+- **Wants**: Advanced analytics on performance and recovery.
+- **Needs**: Integration with wearables and high-tech equipment.
+- **Aspirations**: To win competitions or achieve professional athletic goals.
+- **Workarounds**: Using multiple specialized devices and apps to monitor detailed aspects of training.
+
+#### Coaches and Trainers
+- **Wants**: Tools to better manage training plans for clients.
+- **Needs**: Communication features to provide feedback and adjust workouts.
+- **Aspirations**: To grow their client base and reputation.
+- **Workarounds**: Using a mix of in-person coaching and various digital platforms.
+
+#### Fitness Enthusiasts
+- **Wants**: Community features to share achievements and engage in challenges.
+- **Needs**: A diverse range of workout types to maintain interest.
+- **Aspirations**: To maintain a healthy lifestyle and stay motivated.
+- **Workarounds**: Social media groups and fitness forums to find community support.
+
+#### Nike Product Purchasers
+- **Wants**: Exclusive access to Nike product releases or discounts.
+- **Needs**: Personalized product recommendations based on activity.
+- **Aspirations**: To be equipped with the best gear for their sport or activity.
+- **Workarounds**: Follow multiple sources for news on product releases and deals.
+
+### Network of Users and Partners:
+
+The Nike Move app will create a network where users and partners interact in a system that encourages continuous engagement and activity:
+
+- **Users**: Directly interact with the app for various functionalities, including performance tracking, interacting with communities, or making purchases.
+- **Nike**: Provides the platform, products, and updates. Nike also collects user data to enhance product development and marketing strategies.
+- **Partners**: Could include sports companies, technology firms, health experts, and influencers who contribute content, integrations, or endorsements.
+- **Coaches/Trainers**: Use the platform to connect with clients, manage workout plans, and track client progress.
+
+### Desired User Experience:
+
+#### Catalyst:
+The catalyst for the Nike Move app experience is often the user’s desire to start exercising, improve fitness levels, or enhance athletic performance. A compelling onboarding experience that quickly connects users to their interests, sets goals, and introduces Nike products can kickstart engagement.
+
+#### Beginning of Experience:
+The user onboards by setting up a profile, entering fitness levels, selecting interests, and defining goals. They might also sync wearable devices or other apps with Nike Move.
+
+#### Core Experience:
+The user engages with personalized training plans, monitors progress, connects with the community, participates in challenges, and receives product recommendations. They make use of real-time analytics and feedback to adapt their training.
+
+#### End of Experience:
+Upon reaching a goal or completing a challenge or workout plan, users review their achievements, share these with the community, get rewarded (potentially with product discounts or badges), and set new goals.
+
+#### After the Experience:
+Post-experience, users may be looped back into the ecosystem through follow-up training suggestions, new challenge invitations, or alerts about newly released Nike products aligned with their activity profiles.
+
+### Summary of the New User Experience:
+
+The new user experience strategy for Nike Move is centered on providing a seamless, integrated journey for athletes at all levels, combining personalized training with motivational community aspects and exclusive Nike product tie-ins. The app will adapt to user feedback and data, offering a continually evolving range of features and content to keep users engaged, help them achieve their fitness and performance goals, and integrate their digital sporting life with their physical equipment needs. This holistic approach aims to drive both app engagement and sales of Nike products, creating a symbiotic relationship between users and the brand.
+
+--------------------------------------------------------------------------------
+huggingface/tokenizers: The current process just got forked, after parallelism has already been used. Disabling parallelism to avoid deadlocks...
+To disable this warning, you can either:
+        - Avoid using `tokenizers` before the fork if possible
+        - Explicitly set the environment variable TOKENIZERS_PARALLELISM=(true | false)
+profitManager (to chat_manager):
+
+Thank you for the comprehensive user experience overview. Drawing from the insights provided, we can identify revenue sources and anticipated costs for the development and maintenance of the Nike Move app and its innovative digital offerings.
+
+### Revenue Sources
+1. **Freemium App Model**: Users download the app for free, with the option to subscribe to a premium version for advanced features.
+   - **Type**: Service (Digital Subscription)
+
+2. **Premium Training Programs**: Access to training programs designed by professional coaches and athletes.
+   - **Type**: Service (Content)
+
+3. **Wearable Integrations**: Tie-ins with Nike wearables or partner devices that unlock app features or aggregate detailed analytics.
+   - **Type**: Hardware/Software
+
+4. **Sponsored Challenges**: Challenges sponsored by other brands or companies with entry fees or in-app purchases.
+   - **Type**: Service (Event)
+
+5. **E-Commerce Integrations**: Direct in-app sales of Nike products, possibly using personalized recommendations or exclusive deals.
+   - **Type**: Hardware (Nike Products)
+
+6. **Data Insights for Partners**: Sale of anonymized aggregate user data to health, sports, or fitness research organizations.
+   - **Type**: Service (Data)
+
+7. **Advertising**: Targeted advertising within the app, potentially from sports-related businesses and services.
+   - **Type**: Service (Ad Revenue)
+
+8. **Partner Programs and Integrations**: Revenue from partnerships with fitness gear companies, nutritional programs, or wellness brands.
+   - **Type**: Service/Software
+
+### Anticipated Costs
+1. **App Development**: Initial creation including design, programming, and testing.
+   - **Type**: Development
+
+2. **Content Creation**: Ongoing production of expert training programs, challenge concepts, and educational materials.
+   - **Type**: Content Production
+
+3. **Marketing and Promotion**: User acquisition campaigns, branding, and promotional activities.
+   - **Type**: Sales & Marketing
+
+4. **Operational Costs**: Staff, infrastructure, customer support, and daily operations of the app.
+   - **Type**: Operations
+
+5. **Partnership Management**: Costs to manage and maintain relationships with partners and sponsors.
+   - **Type**: Partnership Management
+
+6. **Technology Partnerships**: Costs associated with integration and maintenance with third-party wearables and services.
+   - **Type**: Technology Partnerships
+
+7. **Community Management**: Moderation and engagement within the app's community features.
+   - **Type**: Community Management
+
+8. **Research and Development**: Continuous investment in innovation to improve offerings and keep the app competitive.
+   - **Type**: R&D
+
+9. **Legal and Compliance**: Expenses associated with data privacy, copyright, and user agreements.
+   - **Type**: Legal
+
+### Net Profit Metric
+To measure and grow the net profit, the success metric chosen will be "Profit per Active User (PPAU)". This metric focuses on not only driving profit but also ensuring that users are actively engaging with the app, which is crucial for both in-app purchases and ad revenue. Growing this metric will involve strategies such as:
+
+- Increasing the conversion rate of free users to premium subscribers.
+- Enhancing user engagement to drive more frequent in-app purchases and reduce churn.
+- Introducing new and compelling content and features that encourage longer app usage.
+- Expanding partnerships to increase value and revenue per user.
+
+| **Category**            | **Revenue Sources**                                 | **Anticipated Costs**               | **Net Profit Metric**           |
+|-------------------------|-----------------------------------------------------|-------------------------------------|--------------------------------|
+| Service (Digital Subscription) | Freemium App Model                                | Operations                           | Profit per Active User (PPAU) |
+| Service (Content)               | Premium Training Programs                         | Development                          |                                |
+| Hardware/Software              | Wearable Integrations                             | Sales & Marketing                    |                                |
+| Service (Event)                | Sponsored Challenges                              | Content Production                   |                                |
+| Hardware (Nike Products)       | E-Commerce Integrations                           | Technology Partnerships              |                                |
+| Service (Data)                 | Data Insights for Partners                        | Partnership Management               |                                |
+| Service (Ad Revenue)           | Advertising                                       | Community Management                 |                                |
+| Service/Software               | Partner Programs and Integrations                 | R&D                                  |                                |
+|                               |                                                   | Legal                                |                                |
+
+By improving the PPAU, Nike Move can optimize its revenue strategies in a way that aligns with providing value to users, thus ensuring that profitability growth is sustainable and reflective of a quality product offering.
+
+--------------------------------------------------------------------------------
+huggingface/tokenizers: The current process just got forked, after parallelism has already been used. Disabling parallelism to avoid deadlocks...
+To disable this warning, you can either:
+        - Avoid using `tokenizers` before the fork if possible
+        - Explicitly set the environment variable TOKENIZERS_PARALLELISM=(true | false)
+brandManager (to chat_manager):
+
+Given the insights and strategic input from the User Experience and Profit Managers, my focus now shifts to naming the new digital offerings within the Nike Move app. Before listing various name options, here's an analysis of the brand, its core values, personality, and desired perception, to inform the creative process:
+
+### Core Values:
+- **Innovation**: Nike is known for its continuous innovation in sportswear and fitness technology.
+- **Inspiration**: Inspiring athletes, regardless of their level, is at the heart of Nike's mission.
+- **Inclusivity**: Catering to all athletes, from beginners to pros, and making sports accessible.
+- **Performance**: Elevating athletic performance through products and services.
+- **Empowerment**: Empowering users through tools and communities to achieve their fitness goals.
+
+### Brand Personality:
+- **Motivating**: Nike's messaging often focuses on pushing users to surpass their limits.
+- **Inspirational**: The brand strives to inspire people to take action and pursue their athletic dreams.
+- **Bold**: Nike's tone is confident, daring, and often challenges the status quo.
+- **Innovative**: Constantly associated with cutting-edge technology and design.
+
+### Desired Perception:
+- **Leading-Edge**: Users should see Nike Move as a pioneer in fitness technology.
+- **Integrated Lifestyle Brand**: The app is not just for workouts, but a part of a holistic, active lifestyle.
+- **Convenient and Customizable**: Tools within the app should offer convenience and adapt to each user's specific needs.
+- **Communal and Supportive**: Creating a sense of community and offering motivational support.
+
+### Position in Users' Minds:
+- Nike Move should be considered essential for anyone committed to fitness and improvement in athletic performance, with the app serving as the go-to platform for guidance, tracking, and Nike community integration.
+
+### Naming Considerations:
+Based on these insights, names should evoke a sense of movement, growth, and community, while also being easy to remember and clearly associated with the Nike brand. The names should also be versatile to encompass the spectrum of digital offerings that might include training programs, virtual challenges, and gear integration.
+
+### Proposed Names:
+1. **Nike Pulse**: Suggests the app is vital to an athlete's daily routine and training.
+2. **Nike Ignite**: Invokes the idea of sparking activity and elevating performance.
+3. **Nike Elevate**: Reflects the goal of taking every athlete to the next level in their fitness journey.
+4. **Nike Vortex**: Conveys a sense of energy and powerful movement.
+5. **Nike Forge**: Implies crafting a stronger, better self through rigorous training.
+6. **Nike Momentum**: Indicates building and maintaining progress in one's athletic endeavors.
+7. **Nike Nexus**: Indicates the app is a central connection point for fitness, community, and gear.
+
+In summary, when naming the new digital offerings within the Nike Move app, it is important to align with the brand's core values of innovation, inspiration, inclusivity, performance, and empowerment. The name should reflect the brand's motivating, inspirational, bold, and innovative personality, and position Nike Move as a pioneer in fitness technology, a lifestyle brand, and a communal platform. It should be compelling enough to resonate with a broad range of athletes and be tied closely to Nike's identity. The proposed names are crafted to encapsulate these attributes and capture the essence of the new offerings.
+
+--------------------------------------------------------------------------------
+huggingface/tokenizers: The current process just got forked, after parallelism has already been used. Disabling parallelism to avoid deadlocks...
+To disable this warning, you can either:
+        - Avoid using `tokenizers` before the fork if possible
+        - Explicitly set the environment variable TOKENIZERS_PARALLELISM=(true | false)
+capabilitiesManager (to chat_manager):
+
+UPDATE CONTEXT
+
+--------------------------------------------------------------------------------
+capabilitiesManager (to chat_manager):
+
+UPDATE CONTEXT
+
+--------------------------------------------------------------------------------
+capabilitiesManager (to chat_manager):
+
+UPDATE CONTEXT
